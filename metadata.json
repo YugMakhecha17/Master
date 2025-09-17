@@ -1,0 +1,5 @@
+{
+  "name": "Accordance",
+  "description": "A top-notch management platform for IT managers. It analyzes high-level project descriptions, breaks them down into actionable tasks, and helps delegate these tasks to the appropriate teams and individuals.",
+  "requestFramePermissions": []
+}
